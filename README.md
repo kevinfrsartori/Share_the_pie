@@ -1,4 +1,8 @@
-# Shiny_metrics
-Building a shiny app to plot candidate genes selection metrics against whole genome
+# - Share the pie -
+##A shiny app to visualize selection indice of candidate genes against whole genome distribution.
+
+
+
+
 
 
